@@ -4,9 +4,6 @@ body{
   color:#fff;
 }
 
-
-
-
 .row{
   clear: both;
   padding: 0;
@@ -42,7 +39,7 @@ body{
   width:50%;
 }
 .span-3{
-  width:33.3%;
+  width:31.3%;
 }
 .span-4{
   width:23%;
