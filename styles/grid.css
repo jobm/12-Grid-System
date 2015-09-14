@@ -28,22 +28,50 @@ body{
 	clear:both;
 }
 
-.span-12{
-  width: 100%;
+.span-1{
+  width:6.3%;
+}
+
+.span-2{
+  width:50%;
+}
+
+.span-3{
+  width:31.3%;
+}
+
+.span-4{
+  width:23%;
+}
+
+.span-5{
+  width:20%;
+}
+
+.span-6{
+  width:48%;
+}
+
+.span-7{
+  width:56.3%;
 }
 
 .span-8{
   width: 73%;
 }
-.span-2{
-  width:50%;
+
+.span-9{
+  width:73%;
 }
-.span-3{
-  width:31.3%;
+
+.span-10{
+  width:81.3;
 }
-.span-4{
-  width:23%;
+
+.span-11{
+  width:89.6%;
 }
-.span-5{
-  width:20%;
+
+.span-12{
+  width: 98%;
 }

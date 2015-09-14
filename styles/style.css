@@ -1,15 +1,57 @@
 .span-4{
   background-color: red;
+  height:100px;
 }
 .span-8{
   background-color: green;
+  height:100px;
 }
-#blue{
+.span-1{
   background-color: blue;
+  height:100px;
 }
-#purple{
+.span-2{
   background-color:purple;
+  height:100px;
 }
-#orange{
+.span-3{
   background-color: orange;
+  height:100px;
+}
+.span-4{
+  background-color: yellow;
+  height:100px;
+}
+.span-5{
+  background-color:gray;
+  height:100px;
+}
+.span-6{
+  background-color: pink;
+  height:100px;
+}
+.span-7{
+  background-color: silver;
+  height:100px;
+}
+.span-8{
+  background-color: brown;
+  height:100px;
+}
+.span-9{
+  background-color: indigo;
+  height:100px;
+}
+.span-10{
+  background-color:violet;
+  height:100px;
+}
+.span-11{
+  background-color:maroon;
+  height:100px;
+}
+.span-12{
+  background-color: red;
+  color:#fff;
+  height:100px;
 }
