@@ -1,36 +1,52 @@
+
 body{
-  min-width: 100%;
-  min-height: 100%;
+  background-color: #000;
+  color:#fff;
 }
+
+
+
+
 .row{
   clear: both;
   padding: 0;
   margin: 0;
-  width: 100%;
-  height: 100px;
 }
 
 .col{
   display: block;
   float: left;
-  margin: 1% 1% 0 1.6%;
+  margin: 1% 1% 0 1%;
 }
 
 .col:first-child{margin-left: 0;}
 
-.group::before,.group::after{content: "";display: table;}
+.group:before,
+.group:after {
+	content:"";
+	display:table;
+}
 
-.group::after{clear: both;}
+.group:after {
+	clear:both;
+}
 
-.col-span-12{
+.span-12{
   width: 100%;
 }
 
-.col-span-8{
-  width: 75%;
+.span-8{
+  width: 73%;
 }
-
-
-.col-span-4{
-  width:25%;
+.span-2{
+  width:50%;
+}
+.span-3{
+  width:33.3%;
+}
+.span-4{
+  width:23%;
+}
+.span-5{
+  width:20%;
 }
